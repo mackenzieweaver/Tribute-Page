@@ -1,0 +1,41 @@
+#main {
+  background-color: #DCDCDC;
+  text-align: center;
+  border-width: 1px;
+  border-radius: 5px;
+  font-family: sans-serif;
+}
+#img-div {
+  background-color: white;
+  text-align: center;
+  margin: 25px;
+}
+#image {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+#tribute-info {
+  background-color: #DCDCDC;
+  padding-left: 25%;
+  padding-right: 25%;
+  padding-bottom: 0px;
+  text-align: left;
+  border-radius: 5px;
+}
+#quote {
+  background-color: #DCDCDC;
+  text-align: center;
+  padding-bottom: 1em;
+  border-radius: 5px;
+}
+li{
+  padding: 5px;
+}
+#year {
+  font-weight: bold;
+}
